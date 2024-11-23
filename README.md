@@ -67,5 +67,5 @@ The dataset contains the following columns:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/niamat-sirrou/Customer-Clustering-KMeans.git
-   cd Customer-Clustering-KMeans
+   git clone https://github.com/niamat-sirrou/PRODIGY_ML_02.git
+   cd PRODIGY_ML_02
